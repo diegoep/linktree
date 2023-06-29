@@ -1,47 +1,52 @@
 let config = {
-  "Title": "Your Name - Links",
-  "Name": "Your Name",
-  "Description": "Your Description",
+  "Title": "Diego Pessoa - Links",
+  "Name": "Diego Pessoa",
+  "Description": "Professor / Software Engineer",
   "links": [
     {
-      "Title": "Website",
-      "URL": "http://www.harindu.dev",
-      "icon_classes": "fas fa-link",
-    },
-    {
       "Title": "Github",
-      "URL": "https://github.com/harindulk",
+      "URL": "https://github.com/diegoep",
       "icon_classes": "fab fa-github",
     },
     {
-      "Title": "Play Store",
-      "URL": "https://play.google.com/store/apps/dev?id=6729187126243636577",
-      "icon_classes": "fab fa-google-play"
+      "Title": "CV Lattes",
+      "URL": "http://lattes.cnpq.br/4442363726982518",
+      "icon_classes": "fas fa-graduation-cap"
     },
     {
-      "Title": "PC Games",
-      "URL": "https://harindulk.itch.io/",
-      "icon_classes": "fab fa-itch-io"
+      "Title": "dev.to",
+      "URL": "https://dev.to/diegoep",
+      "icon_classes": "fab fa-dev"
     },
     {
-      "Title": "Blog",
-      "URL": "blog-test",
-      "icon_classes": "fas fa-blog"
-    },
-    {
-      "Title": "Twitter",
-      "URL": "https://twitter.com/Harindu_Fonseka",
-      "icon_classes": "fab fa-twitter"
+      "Title": "Medium",
+      "URL": "https://medium.com/@diegopessoa",
+      "icon_classes": "fab fa-medium"
     },
     {
       "Title": "LinkedIn",
-      "URL": "https://www.linkedin.com/in/harindulk/",
+      "URL": "https://www.linkedin.com/in/diegorosapessoa/",
       "icon_classes": "fab fa-linkedin"
     },
     {
-      "Title": "Youtube",
-      "URL": "https://www.youtube.com/channel/UCRyQGxzCgFb5wmsp1XAlWpQ",
-      "icon_classes": "fab fa-youtube"
+      "Title": "Twitter",
+      "URL": "https://twitter.com/diegopessoa",
+      "icon_classes": "fab fa-twitter"
     },
+    {
+      "Title": "Instagram",
+      "URL": "https://instagram.com/diegoep12",
+      "icon_classes": "fab fa-instagram"
+    },
+    {
+      "Title": "Facebook",
+      "URL": "https://www.facebook.com/diegoep12",
+      "icon_classes": "fab fa-facebook"
+    },
+    {
+      "Title": "Buy me a coffee",
+      "URL": "https://bmc.link/diegoep",
+      "icon_classes": "fas fa-coffee"
+    }
   ]
 }
